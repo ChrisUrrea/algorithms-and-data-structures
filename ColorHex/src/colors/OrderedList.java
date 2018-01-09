@@ -11,8 +11,6 @@ package colors;
  * They do not allow null elements.<p>
  *
  * @param <E> the type of elements in this list
- *
- * @author  Joanna Klukowska
  * @param <T>
  */
 
