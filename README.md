@@ -1,2 +1,2 @@
-# JavaExperiments
-Just some fun, play experiments with Java
+# Java Experiments
+Just some fun, playful programs in Java
